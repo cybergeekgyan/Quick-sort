@@ -60,3 +60,4 @@ Consider the following array: 50, 23, 9, 18, 61, 32. We need to sort this array 
 ### Step 4: Repeat the steps for the left and right sublists recursively. The final array thus becomes
 * 9, 18, 23, 32, 50, 61.
 
+![quicksort algorithm](/quicksort.jpg)
